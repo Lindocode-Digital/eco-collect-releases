@@ -18,3 +18,12 @@ This repository hosts downloadable Android builds (APK files) for testing and pi
 3) Enable “Install from unknown sources” on your Android device
 
 4) Install and open the app
+
+## 🚧 Status: Private Beta - Lindocode Digital
+
+Project is in a closed testing phase. 
+Access is limited to selected testers.
+
+A public testing phase will be announced after successful private validation.
+Releases will be uploaded publicly then.
+
