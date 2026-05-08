@@ -39,7 +39,7 @@
 
 # 🌍 Eco Collect – App
 
-![Home](https://raw.githubusercontent.com/Lindo-code/creativehub-images/refs/heads/main/Picsart_26-02-13_16-35-04-606.webp)
+![Home](https://dawn-unit-97b0.sdrowvieli1.workers.dev/eco_collect/eco-collect2.webp)
 
 <br>
 
